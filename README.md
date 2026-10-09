@@ -1,3 +1,5 @@
+<img src=".claude-plugin/icon.png" alt="" width="96" align="right">
+
 # usage-meter
 
 A Claude Code mod that shows your usage limits in a small docked pane: the
