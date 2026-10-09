@@ -7,5 +7,7 @@
     "name": "Rodrigo Camargo"
   },
   "repository": "https://github.com/rodrigocamargo/usage-meter",
-  "license": "MIT"
+  "license": "MIT",
+  "displayName": "Usage Meter",
+  "homepage": "https://github.com/rodrigocamargo/usage-meter"
 }
