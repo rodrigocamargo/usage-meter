@@ -1,6 +1,4 @@
-<img src=".claude-plugin/icon.png" alt="" width="96" align="right">
-
-# usage-meter
+# <img src=".claude-plugin/icon.png" alt="" width="32"> usage-meter
 
 A Claude Code mod that shows your usage limits in a small docked pane: the
 5-hour session window and the weekly limit, each as a coloured bar (green,
