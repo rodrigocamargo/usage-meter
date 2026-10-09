@@ -4,17 +4,7 @@ A Claude Code mod that shows your usage limits in a small docked pane: the
 5-hour session window and the weekly limit, each as a coloured bar (green,
 yellow from 70%, red from 90%) with the time it resets.
 
-```
-Session Usage                 42%
-5-hour rolling window
-████████░░░░░░░░░░░░
-Resets Today 6:50PM
-
-All models                    18%
-Weekly
-████░░░░░░░░░░░░░░░░
-Resets Oct 14, 4:00AM
-```
+![The usage-meter pane docked beside a Claude Code session](docs/screenshot.png)
 
 ## Install
 
