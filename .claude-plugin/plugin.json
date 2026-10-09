@@ -1,0 +1,11 @@
+{
+  "name": "usage-meter",
+  "version": "0.1.0",
+  "description": "A small docked pane showing the 5-hour and weekly usage limits",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Rodrigo Camargo"
+  },
+  "repository": "https://github.com/rodrigocamargo/usage-meter",
+  "license": "MIT"
+}

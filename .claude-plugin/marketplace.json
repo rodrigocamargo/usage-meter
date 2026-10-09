@@ -1,0 +1,16 @@
+{
+  "name": "camargo-mods",
+  "owner": {
+    "name": "Rodrigo Camargo"
+  },
+  "metadata": {
+    "description": "Claude Code mods by Rodrigo Camargo"
+  },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./",
+      "description": "A small docked pane showing the 5-hour and weekly usage limits"
+    }
+  ]
+}
