@@ -1,13 +1,14 @@
 {
   "name": "usage-meter",
   "version": "0.1.0",
-  "description": "A small docked pane showing the 5-hour and weekly usage limits",
-  "types": "./types/index.d.ts",
+  "description": "Claude Code only: a small docked pane showing your 5-hour and weekly usage limits",
   "author": {
     "name": "Rodrigo Camargo"
   },
   "repository": "https://github.com/rodrigocamargo/usage-meter",
   "license": "MIT",
   "displayName": "Usage Meter",
-  "homepage": "https://github.com/rodrigocamargo/usage-meter"
+  "homepage": "https://github.com/rodrigocamargo/usage-meter",
+  "icon": "./.claude-plugin/icon.png",
+  "types": "./types/index.d.ts"
 }

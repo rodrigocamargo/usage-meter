@@ -10,7 +10,7 @@
     {
       "name": "usage-meter",
       "source": "./",
-      "description": "A small docked pane showing the 5-hour and weekly usage limits"
+      "description": "Claude Code only: a small docked pane showing your 5-hour and weekly usage limits"
     }
   ]
 }
